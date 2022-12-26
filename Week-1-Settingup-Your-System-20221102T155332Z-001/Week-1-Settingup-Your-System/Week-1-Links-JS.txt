@@ -1,0 +1,21 @@
+
+https://git-scm.com/download/win
+
+https://airbnb.io/javascript/
+
+Resources
+----------
+As a developer, you will often need to refer to additional resources in order to learn more about the coding language and to troubleshoot. MDN  (https://developer.mozilla.org/en-US/docs/Web/JavaScript)is a reliable place to learn more about the specific features of the language. Stack Overflow (https://stackoverflow.com/questions/tagged/javascript) is a useful community where you can ask questions and respond to others' questions.
+
+
+Additional- Resources
+------------------------
+https://vishnupadmanabhan.com/styling-git-bash/
+https://airbnb.io/projects/javascript/
+https://stackoverflow.com/questions/tagged/javascript
+https://developer.chrome.com/docs/devtools/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository
+https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop
+
+https://docs.github.com/en/get-started
